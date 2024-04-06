@@ -1,0 +1,19 @@
+.headerFlex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logoHolder{
+    width: 60px;
+    height: 60px;
+}
+.leftContent{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.rightContent{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}

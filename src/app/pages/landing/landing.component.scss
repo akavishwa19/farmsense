@@ -1,0 +1,14 @@
+.mainBlock{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.imageContainer{
+    max-width: 900px;
+}
+.textBox{
+    border-bottom: 4px solid white;
+    width: 75%;
+    float: right;
+    margin-top: -80px;
+}
