@@ -1,7 +1,6 @@
 .mainBlock{
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 .imageContainer{
     max-width: 900px;
@@ -11,4 +10,8 @@
     width: 75%;
     float: right;
     margin-top: -80px;
+}
+.sizeIcon{
+    color: #8B7032;
+    font-size: 105px;
 }
